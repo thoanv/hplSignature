@@ -1,0 +1,8 @@
+{
+    "name": "hp/hpl.signature",
+    "require": {
+        "phpoffice/phpword": "^0.18.2",
+        "dompdf/dompdf": "^1.0",
+        "zaloplatform/zalo-php-sdk": "^2.0"
+    }
+}
